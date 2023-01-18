@@ -2,7 +2,21 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Course Forge'
 theme = 'HugoTex'
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+sectionPagesMenu = "main"
+
+[author]
+  name = "Wes Cravens"
+  abstract = "A Hugo powered site to build references, notes and course materials."
 
 [markup]
   [markup.highlight]
     style = 'solarized-light'
+
+[params]
+  [params.logo]
+    url     = 'logo.png'
+    width   = 50
+    height  = 50
+    alt     = 'Feather Logo'

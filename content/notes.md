@@ -4,6 +4,8 @@ date: 2023-01-17T13:10:23-06:00
 draft: true
 ---
 
+[Hugo Tutorials and Tips](https://discourse.gohugo.io/t/hugo-tutorials-tips/39009)
+
 [How to Build a... Static Site with Hugo](https://kinsta.com/blog/hugo-static-site/#hugo-commands-and-configuration)
 
 ## Hugo Commands
